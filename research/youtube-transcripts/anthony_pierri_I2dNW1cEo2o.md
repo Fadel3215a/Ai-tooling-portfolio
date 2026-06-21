@@ -1,6 +1,6 @@
     ---
     speaker: Anthony Pierri
-    video_title: Why Clear Positioning Is the #1 Driver of B2B Business Growth
+    video_title: Clear Positioning
     publish_date: 2024-04-20
     source_url: https://www.youtube.com/watch?v=I2dNW1cEo2o
     extracted_via: supadata-api

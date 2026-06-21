@@ -1,6 +1,6 @@
     ---
     speaker: Amanda Natividad
-    video_title: What Zero Click Marketing Actually Is
+    video_title: What Zero Click Marketing Is
     publish_date: 2024-05-01
     source_url: https://www.youtube.com/watch?v=J98cUdZl-JQ
     extracted_via: supadata-api

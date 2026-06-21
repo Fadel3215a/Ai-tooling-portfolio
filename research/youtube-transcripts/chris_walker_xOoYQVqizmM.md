@@ -1,6 +1,6 @@
     ---
     speaker: Chris Walker
-    video_title: Chris Walker on the CMO's Dilemma, Attribution, and Modern GTM Strategy
+    video_title: The CMO's Dilemma
     publish_date: 2024-02-14
     source_url: https://www.youtube.com/watch?v=xOoYQVqizmM
     extracted_via: supadata-api
