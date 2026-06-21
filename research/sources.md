@@ -1,99 +1,129 @@
 Curated Expert Sources: LinkedIn B2B SaaS Organic Strategy
 
-This repository aggregates insights from 10 high-signal operators executing B2B SaaS organic growth. They are selected based on their active practice, revenue impact, and strategic clarity.
+This document outlines our research database for LinkedIn organic growth in B2B SaaS. It is organized by strategic category, expert profile, and specific data ingestion modality.
 
 1. Industry Giants
 
 Operators who defined the modern B2B SaaS LinkedIn playbook.
 
-Chris Walker (CEO, Passetto)
+Chris Walker (CEO, Passetto / Founder, Refine Labs): Focus: Dark Social, Demand Creation.
 
-Why they matter: Pioneered "Dark Social" and demand generation. Focused on un-gating content to educate buyers natively.
+Dave Gerhardt (Founder, Exit Five): Focus: Founder-Led Brand Voice, Copywriting.
 
-Sources:
-
-YouTube: "The CMO's Dilemma" (B2B Revenue Vitals)
-
-Dave Gerhardt (Founder, Exit Five)
-
-Why they matter: Created the conversational, founder-led brand voice standard for B2B SaaS.
-
-Sources:
-
-YouTube: "Exit Five B2B Marketing"
-
-Peep Laja (CEO, Wynter)
-
-Why they matter: Proves that aggressive, contrarian POV content cuts through B2B noise.
-
-Sources:
-
-YouTube: "How to Win Beyond Product"
+Peep Laja (CEO, Wynter / CXL): Focus: Contrarian POV, B2B Buyer Research.
 
 2. Active Practitioners
 
-Operators currently scaling SaaS through LinkedIn organic.
+Operators currently scaling SaaS companies primarily through LinkedIn organic.
 
-Guillaume Moubeche (CEO, lemlist)
+Guillaume Moubeche (CEO, lemlist): Focus: Building in Public, Transparent Growth.
 
-Why they matter: Bootstrapped to $20M+ ARR using transparent founder-led content.
+Amanda Natividad (VP Marketing, SparkToro): Focus: Zero-Click Content, Marketing Mental Models.
 
-Sources:
-
-YouTube: "Building lemlist"
-
-Amanda Natividad (VP Marketing, SparkToro)
-
-Why they matter: Defined "Zero-Click Content" as the definitive LinkedIn framework.
-
-Sources:
-
-YouTube: "What Zero Click Marketing Is"
-
-Anthony Pierri (Partner, Fletch PMM)
-
-Why they matter: Technical, visual-first positioning teardowns that drive high-intent demand.
-
-Sources:
-
-YouTube: "Clear Positioning"
+Richard van der Blom (Founder, Just Connecting): Focus: Algorithm Data, Reach Mechanics.
 
 3. Contrarian & Growth Thinkers
 
 Operators challenging standard B2B SaaS content advice.
 
-Elena Verna (Growth Advisor)
+Anthony Pierri (Partner, Fletch PMM): Focus: Visual Positioning Teardowns.
 
-Why they matter: Integrates Product-Led Growth (PLG) mechanics into content strategy.
+Elena Verna (Growth Advisor): Focus: Product-Led Growth (PLG), Data-driven Growth.
 
-Sources:
-
-YouTube: "The new AI growth playbook"
-
-Richard van der Blom (Founder, Just Connecting)
-
-Why they matter: Quantitative algorithm data teardowns.
-
-Sources:
-
-YouTube: "Cracking the LinkedIn Algorithm"
-
-4. Emerging & BOFU Voices
+4. Emerging Voices
 
 Operators executing highly specific, high-conversion niches.
 
-Lashay Lewis (Founder, Authority Tech)
+Lashay Lewis (Founder, Authority Tech): Focus: Bottom-of-Funnel (BOFU) Content Strategy.
 
-Why they matter: Masters Bottom-of-Funnel (BOFU) content. Specific, high-intent focus.
+Todd Clouser (Creator, Worst Marketer in the World): Focus: B2B Creator Model, Entertainment-led SaaS awareness.
 
-Sources:
+Expert Reference Data Sheet
 
-YouTube: "BOFU Content System"
+Chris Walker
 
-Todd Clouser (Creator, Worst Marketer)
+LinkedIn: linkedin.com/in/chriswalker171/
 
-Why they matter: High-production entertainment value for B2B SaaS.
+YouTube Transcript: research/youtube-transcripts/chris_walker.md
 
-Sources:
+Additional Material: Refine Labs "State of Demand Gen" Podcast Series & "Demand Gen Framework".
 
-YouTube: "Growth Marketing Camp"
+Amanda Natividad
+
+LinkedIn: linkedin.com/in/amandanat/
+
+YouTube Transcript: research/youtube-transcripts/amanda_natividad.md
+
+Additional Material: SparkToro Blog "Zero-Click" content series & Audience Intelligence tools.
+
+Anthony Pierri
+
+LinkedIn: linkedin.com/in/anthonypierri/
+
+YouTube Transcript: research/youtube-transcripts/anthony_pierri.md
+
+Additional Material: Fletch PMM "Messaging Library" & Homepage Positioning Framework.
+
+Guillaume Moubeche
+
+LinkedIn: linkedin.com/in/guillaumemoubeche/
+
+YouTube Transcript: research/youtube-transcripts/guillaume_moubeche.md
+
+Additional Material: lemlist "Growth Hacks" Blog & Build-in-Public Case Study Database.
+
+Dave Gerhardt
+
+LinkedIn: linkedin.com/in/davegerhardt/
+
+YouTube Transcript: research/youtube-transcripts/dave_gerhardt.md
+
+Additional Material: "Exit Five" Community Hub & Founder-Led Brand Voice training.
+
+Peep Laja
+
+LinkedIn: linkedin.com/in/peeplaja/
+
+YouTube Transcript: research/youtube-transcripts/peep_laja.md
+
+Additional Material: Wynter B2B Buyer Research Reports & B2B Positioning Framework.
+
+Richard van der Blom
+
+LinkedIn: linkedin.com/in/richardvanderblom/
+
+YouTube Transcript: research/youtube-transcripts/richard_van_der_blom.md
+
+Additional Material: "Just Connecting" Annual LinkedIn Algorithm Insights Report.
+
+Elena Verna
+
+LinkedIn: linkedin.com/in/elenaverna/
+
+YouTube Transcript: research/youtube-transcripts/elena_verna.md
+
+Additional Material: "Growth at Lovable" Newsletter & PLG Strategic Blueprints.
+
+Lashay Lewis
+
+LinkedIn: linkedin.com/in/lashaylewis/
+
+YouTube Transcript: research/youtube-transcripts/lashay_lewis.md
+
+Additional Material: "Authority Tech" BOFU Content Strategy & Content Mapping Systems.
+
+Todd Clouser
+
+LinkedIn: linkedin.com/in/toddclouser/
+
+YouTube Transcript: research/youtube-transcripts/todd_clouser.md
+
+Additional Material: "Worst Marketer in the World" Creator Model & Entertainment-led awareness modules.
+
+Deep-Dive Qualitative Inventory
+
+For comprehensive analysis beyond the raw data, see our detailed frameworks and community research repository:
+
+Inventory File: research/other/qualitative_inventory.md
+
+Scope: Includes proprietary framework teardowns, community hubs, and deep-dive methodology documentation for all 10 experts listed above.
