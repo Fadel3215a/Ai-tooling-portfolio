@@ -2,10 +2,10 @@ import os
 import textwrap
 import requests
 
-OUTPUT_DIR = "../research/youtube-transcripts"
+OUTPUT_DIR = "research/youtube-transcripts"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-# WARNING: Paste your Supadata API key here (Dont share it)
+# WARNING: Paste your Supadata API key here (dont ever share it)
 SUPADATA_API_KEY = "sd_929f891eb41c700e86d7ed4e8f160283"
 
 VIDEO_TARGETS = [
