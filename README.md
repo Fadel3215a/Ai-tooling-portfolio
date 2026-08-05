@@ -87,3 +87,18 @@ Ingestion: Python, Supadata API, Apify LinkedIn Scraper.
 Storage: Markdown-based, version-controlled repository structure.
 
 Data Synthesis: Qualitative analysis of extracted transcripts to map content frameworks
+
+## Playbook
+
+The final outcome of this research is located in `/playbook`.
+
+Contents include:
+
+- Recommendation Library
+- Expert Disagreements
+- Rejected Recommendations
+- Original Ideas (CRDL)
+- Weaknesses
+- Expert Evaluation
+
+These documents synthesize the research findings into an actionable LinkedIn Organic Growth Playbook for B2B SaaS.
