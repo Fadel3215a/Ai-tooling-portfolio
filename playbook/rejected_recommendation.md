@@ -16,7 +16,7 @@ Todd Clouser
 Focus:
 B2B Creator Model, Entertainment-led SaaS Awareness.
 
-Supporting Research:
+Repository Evidence:
 - research/youtube-transcripts/todd_clouser.md
 - Additional Material:
 "Worst Marketer in the World" Creator Model &
@@ -26,7 +26,7 @@ Entertainment-led Awareness Modules.
 
 I chose not to make trend-driven content a core principle of this playbook because trends are temporary, while customer problems are persistent. A content strategy built around trends may generate short-term attention, but it does not guarantee relevance to the target audience or meaningful business outcomes.
 
-Instead, this playbook begins with identifying customer pain points and uses trends only when they naturally strengthen the message. This approach creates content that remains valuable beyond a single trend cycle while attracting more qualified audiences.
+Instead, this playbook begins with identifying customer pain points and uses trends only when they naturally strengthen the message. This approach creates content that remains valuable beyond a single trend cycle while attracting more qualified audiences. This decision aligns with the playbook's objective of building long-term authority instead of pursuing short-term visibility.
 
 ---
 
@@ -43,7 +43,7 @@ Richard van der Blom
 Focus:
 LinkedIn Algorithm Data, Reach Mechanics.
 
-Supporting Research:
+Repository Evidence:
 - research/youtube-transcripts/richard_van_der_blom.md
 - Additional Material:
 "Just Connecting" Annual LinkedIn Algorithm Insights Report.
@@ -52,7 +52,7 @@ Supporting Research:
 
 I chose not to use frameworks as rigid templates because they can produce content that is predictable and lacks originality. While frameworks improve consistency and provide a useful structure, relying on them without critical thinking risks creating content that blends in rather than stands out.
 
-Instead, this playbook treats frameworks as quality-control tools rather than creative constraints. Every piece of content should follow a clear structure while allowing room for original insights, authentic communication, and the creator's unique perspective.
+Instead, this playbook treats frameworks as quality-control tools rather than creative constraints. Every piece of content should follow a clear structure while allowing room for original insights, authentic communication, and the creator's unique perspective. This decision aligns with the playbook's objective of building long-term authority instead of pursuing short-term visibility.
 
 ---
 
@@ -75,7 +75,7 @@ Focus Areas:
 - Visual Positioning
 - Bottom-of-Funnel Content Strategy
 
-Supporting Research:
+Repository Evidence:
 - research/youtube-transcripts/chris_walker.md
 - research/youtube-transcripts/peep_laja.md
 - research/youtube-transcripts/anthony_pierri.md
@@ -85,7 +85,7 @@ Supporting Research:
 
 I chose not to prioritize reach as the primary objective because visibility alone does not create meaningful business outcomes. A large audience is valuable only when it consists of the right audience. Optimizing for impressions without building authority often attracts low-intent engagement that rarely converts into qualified opportunities.
 
-Instead, this playbook prioritizes building authority by consistently providing value to a clearly defined audience. Reach should be treated as the result of valuable content, not the objective itself.
+Instead, this playbook prioritizes building authority by consistently providing value to a clearly defined audience. Reach should be treated as the result of valuable content, not the objective itself. This decision aligns with the playbook's objective of building long-term authority instead of pursuing short-term visibility.
 
 ---
 
@@ -102,7 +102,7 @@ Chris Walker
 Focus:
 Dark Social, Demand Creation.
 
-Supporting Research:
+Repository Evidence:
 - research/youtube-transcripts/chris_walker.md
 - Additional Material:
 Refine Labs "State of Demand Gen" Podcast Series
@@ -112,4 +112,4 @@ Refine Labs "State of Demand Gen" Podcast Series
 
 I chose not to evaluate content performance using vanity metrics because they do not necessarily reflect business impact. A post can receive thousands of likes while generating little or no qualified pipeline. High engagement without meaningful business outcomes creates a false sense of success.
 
-Instead, this playbook measures success through qualified conversations, pipeline contribution, and overall business impact. Engagement metrics are useful only when they support these larger business objectives.
+Instead, this playbook measures success through qualified conversations, pipeline contribution, and overall business impact. Engagement metrics are useful only when they support these larger business objectives. This decision aligns with the playbook's objective of building long-term authority instead of pursuing short-term visibility.
