@@ -94,4 +94,6 @@ No playbook should be considered universally correct or permanently complete. Th
 
 By acknowledging these limitations, the playbook remains aligned with the core principle of the Continuous Research & Development Loop (CRDL):
 
+The objective of this playbook is not to provide universal answers, but to provide a structured decision-making framework that continuously evolves as new evidence becomes available.
+
 Every solution is temporary until new evidence proves a better one.
